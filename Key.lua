@@ -1,1 +1,1 @@
-PERMANENT: PermanentKey
+PERMANENT: FreeKey2025
